@@ -24,25 +24,13 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 Your City/Country
 
-### Academics
-
-Your School
-
 ### Interests
 
 - Some Things You Like
 
-### Development
-
-- Inventor of the My Pillow
-
 ### Projects
 
 - [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[Your Name](GitHub Link)
 ```
 
 ### 3. Create a `Hello, World!` Script
@@ -64,7 +52,7 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_TriGaucho.js` or
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/hacktoberfest2019.git
 ```
 
 * Create a branch
