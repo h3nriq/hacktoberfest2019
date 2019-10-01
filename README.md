@@ -51,7 +51,7 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
+// AUTHOR: Diogo Almeida
 // GITHUB: https://github.com/TriGaucho
 
 console.log('Hello, World!');
